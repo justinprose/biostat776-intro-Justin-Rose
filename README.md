@@ -3,4 +3,3 @@ Introducing myself
 
 This website contains a biographical sketch of Justin Rose.
 
-Line added from Github
